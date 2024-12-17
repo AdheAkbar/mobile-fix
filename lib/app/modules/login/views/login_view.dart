@@ -41,7 +41,7 @@ class LoginView extends GetView<LoginController> {
                 textAlign: TextAlign.center, // Memusatkan teks di dalam field
                 obscureText: true,
                 decoration: InputDecoration(
-                  hintText: "Password",
+                  hintText: "Passsword",
                   labelText: "Password",
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(10),
